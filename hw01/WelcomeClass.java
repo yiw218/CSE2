@@ -20,13 +20,13 @@ public class WelcomeClass{
     System.out.println("-----------");
     System.out.println("^  ^  ^  ^  ^  ^");
     System.out.println("/ \\/ \\/ \\/ \\/ \\/ \\");
-    System.out.println("|-Y--I--W--2--1--8-|");
+    System.out.println("|-y--i--w--2--1--8-|");
     System.out.println("\\ /\\ /\\ /\\ /\\ /\\ /");
     System.out.println("v  v  v  v  v  v ");
     System.out.println("This summer I went to Japan.");
     System.out.println("The food there is fantastic.");
     System.out.println("test");
 
-        //test
+        //test/testtest
     }
 }
