@@ -6,6 +6,7 @@
         import java.util.Scanner;    //define a class
         public class Bicycle { //define a method
             public static void main(String[] args) {
+            
             Scanner myScanner;
             myScanner= new Scanner( System.in );
             System.out.println("Enter the number of seconds (an integer): ");

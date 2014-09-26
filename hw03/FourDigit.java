@@ -22,6 +22,8 @@
         double x7=x5-x6;
         int x8=(int)(x7*10000);
         System.out.println("the four digits are" +x8);
-    }
+        
+        
+        }
     }
     

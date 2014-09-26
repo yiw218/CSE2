@@ -20,7 +20,7 @@
                 Guess=(2*Guess*Guess*Guess+Input)/(3*Guess*Guess);
                 Guess=(2*Guess*Guess*Guess+Input)/(3*Guess*Guess);
                 output=Guess*Guess*Guess;
-                System.out.print("the cube root is "+Guess+":"+Guess+"*"+Guess+"*"+Guess+"="+output+);)
+                System.out.print("the cube root is "+Guess+":"+Guess+"*"+Guess+"*"+Guess+"="+output+");
             }
         }
        
